@@ -12,7 +12,7 @@ public class Main {
 
         String mensagemDecriptada = QuebradorDeCodigo.quebrarCodigo(mensagemEncriptada, palavraConhecida);
 
-        System.out.println("Aqui está a mensagem decriptada:");
+        System.out.println("Aqui esta a mensagem decriptada:");
         System.out.println(mensagemDecriptada);
 
         scanner.close();
